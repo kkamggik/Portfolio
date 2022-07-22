@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'HancomUljuBangudae';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205-2@1.0/HancomUljuBangudae.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+div {
+  font-family: 'HancomUljuBangudae';
+}
+
+.carousel-item img {
+  height: 100vh;
+}
+
+nav {
+  z-index: 1;
+  width: 100vw;
+}
+
